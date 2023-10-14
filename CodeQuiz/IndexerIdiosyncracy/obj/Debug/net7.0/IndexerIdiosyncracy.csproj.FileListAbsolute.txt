@@ -1,0 +1,14 @@
+C:\Users\kims1\source\repos\code-quiz\CodeQuiz\IndexerIdiosyncracy\bin\Debug\net7.0\IndexerIdiosyncracy.exe
+C:\Users\kims1\source\repos\code-quiz\CodeQuiz\IndexerIdiosyncracy\bin\Debug\net7.0\IndexerIdiosyncracy.deps.json
+C:\Users\kims1\source\repos\code-quiz\CodeQuiz\IndexerIdiosyncracy\bin\Debug\net7.0\IndexerIdiosyncracy.runtimeconfig.json
+C:\Users\kims1\source\repos\code-quiz\CodeQuiz\IndexerIdiosyncracy\bin\Debug\net7.0\IndexerIdiosyncracy.dll
+C:\Users\kims1\source\repos\code-quiz\CodeQuiz\IndexerIdiosyncracy\bin\Debug\net7.0\IndexerIdiosyncracy.pdb
+C:\Users\kims1\source\repos\code-quiz\CodeQuiz\IndexerIdiosyncracy\obj\Debug\net7.0\IndexerIdiosyncracy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kims1\source\repos\code-quiz\CodeQuiz\IndexerIdiosyncracy\obj\Debug\net7.0\IndexerIdiosyncracy.AssemblyInfoInputs.cache
+C:\Users\kims1\source\repos\code-quiz\CodeQuiz\IndexerIdiosyncracy\obj\Debug\net7.0\IndexerIdiosyncracy.AssemblyInfo.cs
+C:\Users\kims1\source\repos\code-quiz\CodeQuiz\IndexerIdiosyncracy\obj\Debug\net7.0\IndexerIdiosyncracy.csproj.CoreCompileInputs.cache
+C:\Users\kims1\source\repos\code-quiz\CodeQuiz\IndexerIdiosyncracy\obj\Debug\net7.0\IndexerIdiosyncracy.dll
+C:\Users\kims1\source\repos\code-quiz\CodeQuiz\IndexerIdiosyncracy\obj\Debug\net7.0\refint\IndexerIdiosyncracy.dll
+C:\Users\kims1\source\repos\code-quiz\CodeQuiz\IndexerIdiosyncracy\obj\Debug\net7.0\IndexerIdiosyncracy.pdb
+C:\Users\kims1\source\repos\code-quiz\CodeQuiz\IndexerIdiosyncracy\obj\Debug\net7.0\IndexerIdiosyncracy.genruntimeconfig.cache
+C:\Users\kims1\source\repos\code-quiz\CodeQuiz\IndexerIdiosyncracy\obj\Debug\net7.0\ref\IndexerIdiosyncracy.dll
